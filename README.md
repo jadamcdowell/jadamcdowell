@@ -13,3 +13,5 @@ I’m all about making the digital world a safer place while having fun along th
 😄 Pronouns: Digital Guardian
 
 ⚡ Fun fact: Coffee is my secret sauce for successful coding sessions.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jadamcdowell&layout=compact&theme=dark&show_icons=true)
